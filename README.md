@@ -10,7 +10,6 @@ Usage
 
 First, add the following dependency to your `Cargo.toml` file:
 
-tomlCopy code
 
 `[dependencies] sorting_algos = { git = "https://github.com/yernazarius/my_ass_2_blockchain_2.git" }`
 
@@ -23,7 +22,6 @@ tomlCopy code
 
 To use any of the sorting algorithms, first import them into your Rust file. Below are examples of how to import and use each algorithm:
 
-rustCopy code
 
 ```
 // For using quick sort use 
