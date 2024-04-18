@@ -25,7 +25,16 @@ To use any of the sorting algorithms, first import them into your Rust file. Bel
 
 rustCopy code
 
-`// For using quick sort use sorting_algos::quick_sort::quick_sort;  // For using merge sort use sorting_algos::merge_sort::merge_sort;  // For using insertion sort use sorting_algos::insertion_sort::insertion_sort;  // For using selection sort use sorting_algos::selection_sort::selection_sort;`
+```
+// For using quick sort use 
+sorting_algos::quick_sort::quick_sort;  
+// For using merge sort use 
+sorting_algos::merge_sort::merge_sort;  
+// For using insertion sort use 
+sorting_algos::insertion_sort::insertion_sort;  
+// For using selection sort use 
+sorting_algos::selection_sort::selection_sort;
+```
 
 Examples
 --------
